@@ -1,0 +1,31 @@
+_repo: Claret-and-Olives-from-the-Garonne-to-the-RhoneNotes-social-picturesque-and-legendary-by-the-__43844
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43844-h/images/coverpage1.jpg
+creator:
+  author:
+    agent_name: Reach, Angus B. (Angus Bethune)
+    alias: Reach, Angus Bethune
+    birthdate: 1821
+    deathdate: 1856
+    gutenberg_agent_id: '42434'
+    url: http://www.gutenberg.org/2009/agents/42434
+description: ''
+gutenberg_issued: '2013-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43844'
+  lccn: 04025943
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Agriculture -- France'
+- !lcc 'DC'
+title: 'Claret and Olives, from the Garonne to the Rhone
+
+  Notes, social, picturesque, and legendary, by the way.'
+url: http://www.gutenberg.org/ebooks/43844
